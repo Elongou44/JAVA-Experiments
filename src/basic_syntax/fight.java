@@ -1,3 +1,5 @@
+package basic_syntax;
+
 public class fight {
     public static void main(String[] args) {
         Tank t1=new Tank();
