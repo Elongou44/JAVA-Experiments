@@ -1,4 +1,4 @@
-package Student_gouzao;
+package oop.Student_gouzao;
 
 public class Student {
     private String name;//姓名

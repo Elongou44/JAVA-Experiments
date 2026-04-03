@@ -1,4 +1,4 @@
-package TwelveOneJFrame;
+package gui.TwelveOneJFrame;
 
 import javax.swing.*;
 import java.awt.*;

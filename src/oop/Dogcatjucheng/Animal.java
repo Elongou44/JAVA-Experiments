@@ -1,4 +1,4 @@
-package Dogcatjucheng;
+package oop.Dogcatjucheng;
 public class Animal {
     String name;
     String color;

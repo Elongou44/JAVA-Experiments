@@ -1,4 +1,4 @@
-package Eight.three.Zimu;
+package io.Eight.three.Zimu;
 import java.io.FileReader;
 public class Test {
     public static void main(String[] args) throws Exception {

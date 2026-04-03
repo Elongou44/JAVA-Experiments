@@ -9,6 +9,5 @@ lianliankan/
 MoveBox/
 
 # 临时文件/压缩包/无关脚本
-*.txt
 *.zip
 *.py

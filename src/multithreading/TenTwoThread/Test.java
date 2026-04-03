@@ -1,4 +1,4 @@
-package TenTwoThread;
+package multithreading.TenTwoThread;
 public class Test {
     public static void main(String[] args) {
         MyThread1 myThread1=new MyThread1();

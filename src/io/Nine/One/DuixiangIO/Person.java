@@ -1,4 +1,4 @@
-package Nine.One.DuixiangIO;
+package io.Nine.One.DuixiangIO;
 import java.io.*;
 public class Person implements Serializable {
     String name;

@@ -1,4 +1,4 @@
-package Nine.Two.printSteam;
+package io.Nine.Two.printSteam;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
 public class Test {

@@ -1,4 +1,4 @@
-package Eight.twe.Inout;
+package io.Eight.twe.Inout;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 public class Test {

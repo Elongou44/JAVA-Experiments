@@ -1,4 +1,4 @@
-package 自定义异常;
+package oop.自定义异常;
 
 import java.util.Scanner;
 public class Test {

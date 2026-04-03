@@ -1,4 +1,4 @@
-package 异常处理;
+package oop.异常处理;
 import java.util.Scanner;
 public class Test {
     public static void main(String[] args) {

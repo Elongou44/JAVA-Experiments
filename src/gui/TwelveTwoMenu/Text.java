@@ -1,4 +1,4 @@
-package TwelveTwoMenu;
+package gui.TwelveTwoMenu;
 
 import javax.swing.*;
 import java.awt.*;

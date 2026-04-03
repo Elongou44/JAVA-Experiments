@@ -1,4 +1,4 @@
-package Eight.one.FilePath;
+package io.Eight.one.FilePath;
 import java.io.File;
 import java.util.Scanner;
 public class Test {

@@ -1,4 +1,4 @@
-package gouzaoshangping;
+package others.gouzaoshangping;
 
 public class Goods {
     String id;

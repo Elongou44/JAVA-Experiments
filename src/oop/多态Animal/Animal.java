@@ -1,4 +1,4 @@
-package 多态Animal;
+package oop.多态Animal;
 public abstract class Animal {
     public abstract void cry();
 }

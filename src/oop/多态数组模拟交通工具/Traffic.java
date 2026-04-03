@@ -1,4 +1,4 @@
-package 多态数组模拟交通工具;
+package oop.多态数组模拟交通工具;
 public abstract class Traffic {
     private String brand;
     public Traffic(String brand) {

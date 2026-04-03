@@ -1,4 +1,4 @@
-package Jiekou_School;
+package oop.Jiekou_School;
 interface TeacherInterface {
     public abstract void getPay();
     public abstract void setPay();

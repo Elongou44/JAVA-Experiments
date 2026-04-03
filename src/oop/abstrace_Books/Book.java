@@ -1,4 +1,4 @@
-package abstrace_Books;
+package oop.abstrace_Books;
 public abstract class Book {
     int bookPage;
     double discount;
